@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Firebase Products
+
+The Data Layer is implemented on a MySql server, which can be managed via Apache by an administrator. It is exposed by the MySql server. This is a products CRUD application with one table. A REST (REpresentational State Transfer) service is created to access the database. This is the Business Logic Layer. It is essentially about writing a function that treat the standard set of commands defined in HTML in a uniform way: GET, POST, PATCH and DELETE. It fetch informations from database, sends data from form controls to database, makes posts and updates to/of the database, deletes information from database. The Presentation Layer is written in React. The products are presented by cards. One card can be deleted and edited. There is a form to add new products.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
