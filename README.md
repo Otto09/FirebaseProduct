@@ -1,6 +1,6 @@
 # Firebase Products
 
-It is a React application created without a component that runs on its own server and allows interaction with a serverless database. For data storage, this application uses a specialized web service, DBaaS (short for DataBase-as-a-Service) called Firebase, provided by Google Co. This is a Firebaseproducts CRUD application. It fetch informations from database, sends data from form controls to database, makes posts and updates to/of the database, deletes information from database. The Presentation Layer is written in React. The products are presented by cards. One card can be deleted and edited. There is a form to add new products.
+It is a React application created without a component that runs on its own server and allows interaction with a serverless database. For data storage, this application uses a specialized web service, DBaaS (short for DataBase-as-a-Service) called Firebase, provided by Google Co. This is a Firebaseproducts CRUD application. It fetch informations from database, sends data from form controls to database, makes posts to the database, deletes information from database. The Presentation Layer is written in React. The products are presented by cards. One card can be deleted and edited. There is a form to add new products.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
